@@ -1,5 +1,6 @@
 # fake-news-detection
 Building NLP-based techniques and models to investigate fake news
+
 *Team: Harsh Vardhan Pachisia, Jackie Glasheen, Ridhi Purohit, Shwetha Srinivasan (Machine Learning Final Project)*
 
 ### Background

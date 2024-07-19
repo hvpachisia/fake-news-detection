@@ -1,8 +1,6 @@
 # fake-news-detection
 Building NLP-based techniques and models to investigate fake news
 
-*Team: Harsh Vardhan Pachisia, Jackie Glasheen, Ridhi Purohit, Shwetha Srinivasan (Machine Learning Final Project)*
-
 ### Background
 “If we are not serious about facts and what’s true and what’s not, if we can’t discriminate between serious arguments and propaganda, then we have problems”. Former President Barack Obama stated this over 6 years ago, and with the percolation of AI and the trend of social media amplifying unreliable information, the issue of fake news affecting public discourse will only get worse. The motivation behind this project is to provide a tool that helps stem the flow of misinformation. Skewed facts can influence public opinion, trigger social unrest and sway political outcomes as we have seen worldwide over the past decade.
 
